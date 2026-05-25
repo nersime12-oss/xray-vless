@@ -9,7 +9,7 @@
       "settings": {
         "clients": [
           {
-            "id": "ee069311-71d3-4ce8-a73a-17a409107c4a"
+            "id": "f56d144f-a589-450e-80de-90324a3ab891"
           }
         ],
         "decryption": "none"
@@ -17,7 +17,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/vpn"
+          "path": "/cmd"
         }
       }
     }
